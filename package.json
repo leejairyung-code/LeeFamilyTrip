@@ -1,0 +1,11 @@
+{
+  "name": "prague-trip-2026",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node build.mjs --check",
+    "build": "node build.mjs",
+    "start": "node build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

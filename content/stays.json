@@ -1,0 +1,102 @@
+{
+  "stays": [
+    {
+      "id": "prague",
+      "city": "prague",
+      "lang": "cs",
+      "from": "2026-11-24",
+      "to": "2026-11-30",
+      "name": {
+        "en": "Prague apartment (Airbnb)",
+        "ko": "프라하 숙소 (에어비앤비)"
+      },
+      "address": "Legerova 1824/47, 120 00 Praha 2",
+      "mapQuery": "Legerova 1824/47, 120 00 Praha 2",
+      "note": {
+        "en": "TODO: check-in instructions and door code",
+        "ko": "TODO: 체크인 방법과 현관 비밀번호"
+      }
+    },
+    {
+      "id": "regensburg",
+      "city": "regensburg",
+      "lang": "de",
+      "from": "2026-11-30",
+      "to": "2026-12-01",
+      "name": {
+        "en": "Hampton by Hilton Regensburg",
+        "ko": "햄프턴 바이 힐튼 레겐스부르크"
+      },
+      "address": "Johanna-Dachs-Straße 10, 93055 Regensburg",
+      "mapQuery": "Hampton by Hilton Regensburg, Johanna-Dachs-Straße 10, 93055 Regensburg",
+      "phone": "TODO: hotel phone",
+      "kakao": "",
+      "note": {
+        "en": "Breakfast is at the hotel on Tue Dec 1.",
+        "ko": "12월 1일(화) 아침은 호텔에서 먹습니다."
+      }
+    },
+    {
+      "id": "munich-airbnb",
+      "city": "munich",
+      "lang": "de",
+      "from": "2026-12-01",
+      "to": "2026-12-04",
+      "name": {
+        "en": "Munich Airbnb (4 people)",
+        "ko": "뮌헨 에어비앤비 (4명)"
+      },
+      "address": "Baumkirchner Straße 22, München",
+      "mapQuery": "Baumkirchner Straße 22, München",
+      "note": {
+        "en": "TODO: check-in instructions and door code",
+        "ko": "TODO: 체크인 방법과 현관 비밀번호"
+      }
+    },
+    {
+      "id": "munich-scandic",
+      "city": "munich",
+      "lang": "de",
+      "from": "2026-12-01",
+      "to": "2026-12-04",
+      "name": {
+        "en": "Scandic München Macherei (2 people)",
+        "ko": "스칸딕 뮌헨 마허라이 (2명)"
+      },
+      "address": "Berg-am-Laim-Str. 109, 81673 München",
+      "mapQuery": "Scandic München Macherei, Berg-am-Laim-Str. 109, 81673 München",
+      "phone": "TODO: hotel phone",
+      "kakao": ""
+    },
+    {
+      "id": "nuremberg",
+      "city": "nuremberg",
+      "lang": "de",
+      "from": "2026-12-04",
+      "to": "2026-12-05",
+      "name": {
+        "en": "Holiday Inn, the niu Leo Nuremberg (IHG)",
+        "ko": "홀리데이 인, 니우 레오 뉘른베르크 (IHG)"
+      },
+      "address": "Am Leonhardspark 6, Nürnberg",
+      "mapQuery": "Am Leonhardspark 6, Nürnberg",
+      "phone": "TODO: hotel phone",
+      "kakao": ""
+    },
+    {
+      "id": "mainz",
+      "city": "mainz",
+      "lang": "de",
+      "from": "2026-12-05",
+      "to": "2026-12-09",
+      "name": {
+        "en": "Mainz or Wiesbaden hotel",
+        "ko": "마인츠 또는 비스바덴 호텔"
+      },
+      "address": "TODO: hotel address",
+      "mapQuery": "TODO: hotel address",
+      "phone": "TODO: hotel phone",
+      "kakao": ""
+    }
+  ]
+}

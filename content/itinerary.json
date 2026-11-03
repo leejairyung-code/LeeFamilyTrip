@@ -1,0 +1,1379 @@
+{
+  "days": [
+    {
+      "id": "2026-11-24",
+      "title": {
+        "en": "Arrival day",
+        "ko": "도착하는 날"
+      },
+      "items": [
+        {
+          "time": "13:00",
+          "type": "normal",
+          "title": {
+            "en": "Jay lands in Frankfurt (DE2033)",
+            "ko": "재성 프랑크푸르트 도착 (DE2033)"
+          }
+        },
+        {
+          "time": "13:20",
+          "type": "normal",
+          "title": {
+            "en": "Jaemin lands in Istanbul (TK82)",
+            "ko": "재민 이스탄불 도착 (TK82)"
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "normal",
+          "title": {
+            "en": "Jay lands in Prague (DE4484)",
+            "ko": "재성 프라하 도착 (DE4484)"
+          },
+          "note": {
+            "en": "Either book a taxi or take public transport to the apartment. How to do both is on the Info tab.",
+            "ko": "택시를 예약하거나 대중교통으로 숙소까지 갑니다. 두 방법 모두 정보 탭에 안내되어 있습니다."
+          }
+        },
+        {
+          "time": "18:25",
+          "type": "normal",
+          "title": {
+            "en": "Jaemin lands in Prague (TK1769)",
+            "ko": "재민 프라하 도착 (TK1769)"
+          },
+          "note": {
+            "en": "Either book a taxi or take public transport to the apartment. How to do both is on the Info tab.",
+            "ko": "택시를 예약하거나 대중교통으로 숙소까지 갑니다. 두 방법 모두 정보 탭에 안내되어 있습니다."
+          }
+        },
+        {
+          "time": "18:40",
+          "type": "normal",
+          "title": {
+            "en": "Mom & Dad and Aunt & Uncle land in Frankfurt (LH713)",
+            "ko": "엄마 & 아빠, 이모 & 이모부 프랑크푸르트 도착 (LH713)"
+          }
+        },
+        {
+          "time": "21:10",
+          "type": "normal",
+          "title": {
+            "en": "Jenny & Peter land in Prague (DE4480)",
+            "ko": "재령 & 피터 프라하 도착 (DE4480)"
+          },
+          "note": {
+            "en": "Jenny & Peter wait for Mom & Dad and Aunt & Uncle, who land at 22:20, and they all go to the apartment together.",
+            "ko": "재령 & 피터는 22:20에 도착하는 엄마 & 아빠, 이모 & 이모부를 기다렸다가 모두 함께 숙소로 갑니다."
+          }
+        },
+        {
+          "time": "22:20",
+          "type": "normal",
+          "title": {
+            "en": "Mom & Dad and Aunt & Uncle land in Prague (LH1400)",
+            "ko": "엄마 & 아빠, 이모 & 이모부 프라하 도착 (LH1400)"
+          },
+          "note": {
+            "en": "Mom & Dad and Aunt & Uncle go to the apartment together with Jenny & Peter.",
+            "ko": "엄마 & 아빠, 이모 & 이모부는 재령 & 피터와 함께 숙소로 갑니다."
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-25",
+      "title": {
+        "en": "Old Town and the Clock",
+        "ko": "구시가지와 천문시계"
+      },
+      "items": [
+        {
+          "time": "09:00",
+          "type": "normal",
+          "title": {
+            "en": "Slow breakfast at the Airbnb",
+            "ko": "숙소에서 느긋한 아침 식사"
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to Klementinum",
+            "ko": "클레멘티눔까지 택시"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "reserve",
+          "place": "klementinum",
+          "title": {
+            "en": "Klementinum Baroque Library tour",
+            "ko": "클레멘티눔 바로크 도서관 투어"
+          },
+          "note": {
+            "en": "About 50 minutes. The tour includes the Astronomical Tower, so there are stairs.",
+            "ko": "약 50분 소요. 천문탑이 포함되어 계단이 있습니다."
+          }
+        },
+        {
+          "time": "11:30",
+          "type": "normal",
+          "place": "old-town-square",
+          "title": {
+            "en": "Old Town Square",
+            "ko": "구시가지 광장"
+          }
+        },
+        {
+          "time": "12:15",
+          "type": "reserve",
+          "mapQuery": "Staroměstské náměstí, Praha",
+          "title": {
+            "en": "Lunch for 8 near Old Town Square",
+            "ko": "구시가지 광장 근처 점심 (8명)"
+          }
+        },
+        {
+          "time": "13:45",
+          "type": "normal",
+          "title": {
+            "en": "Groceries and rest at the Airbnb",
+            "ko": "장보기, 숙소에서 휴식"
+          }
+        },
+        {
+          "time": "15:45",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to Old Town Square",
+            "ko": "구시가지 광장까지 택시"
+          }
+        },
+        {
+          "time": "16:00",
+          "type": "normal",
+          "place": "old-town-square",
+          "title": {
+            "en": "Astronomical Clock show and hot drinks",
+            "ko": "천문시계 쇼 구경, 따뜻한 음료"
+          }
+        },
+        {
+          "time": "16:45",
+          "type": "taxi",
+          "place": "charles-bridge",
+          "title": {
+            "en": "Taxi to Charles Bridge, Old Town end (Křižovnické náměstí)",
+            "ko": "카를교 구시가 쪽 입구(크르지조브니츠케 광장)까지 택시"
+          },
+          "note": {
+            "en": "Then a 10–15 minute walk on the bridge at dusk. Alternative: a seated Vltava cruise.",
+            "ko": "이어서 해 질 무렵 다리 위를 10~15분 걷습니다. 대안: 앉아서 즐기는 블타바강 유람선."
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Cook dinner at the Airbnb",
+            "ko": "숙소에서 저녁 요리"
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-26",
+      "title": {
+        "en": "Lesser Town and family pictures",
+        "ko": "말라스트라나와 가족사진"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "09:45",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to Lesser Town Square",
+            "ko": "말라스트라나 광장까지 택시"
+          }
+        },
+        {
+          "time": "10:00",
+          "type": "normal",
+          "place": "st-nicholas",
+          "title": {
+            "en": "St. Nicholas Church",
+            "ko": "성 니콜라스 성당"
+          }
+        },
+        {
+          "time": "11:00",
+          "type": "normal",
+          "place": "lennon-wall",
+          "title": {
+            "en": "John Lennon Wall, then taxi back",
+            "ko": "존 레논 벽, 구경 후 택시로 귀가"
+          }
+        },
+        {
+          "time": "12:15",
+          "type": "normal",
+          "title": {
+            "en": "Lunch at the Airbnb, change for pictures",
+            "ko": "숙소에서 점심, 사진 촬영을 위해 옷 갈아입기"
+          }
+        },
+        {
+          "time": "13:50",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to the photo location",
+            "ko": "촬영 장소까지 택시"
+          },
+          "note": {
+            "en": "TODO: photographer meeting point",
+            "ko": "TODO: 포토그래퍼 만나는 장소"
+          }
+        },
+        {
+          "time": "14:30",
+          "type": "fixed",
+          "title": {
+            "en": "FAMILY PICTURES",
+            "ko": "가족사진 촬영"
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "normal",
+          "title": {
+            "en": "Hot drinks, taxi home",
+            "ko": "따뜻한 음료, 택시로 귀가"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to dinner",
+            "ko": "저녁 식사 장소로 택시"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "reserve",
+          "title": {
+            "en": "Czech dinner for 8",
+            "ko": "체코 전통 저녁 식사 (8명)"
+          },
+          "note": {
+            "en": "Also US Thanksgiving.",
+            "ko": "미국 추수감사절이기도 합니다."
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-27",
+      "title": {
+        "en": "Prague Castle",
+        "ko": "프라하 성"
+      },
+      "items": [
+        {
+          "time": "08:00",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "09:15",
+          "type": "taxi",
+          "place": "prague-castle",
+          "title": {
+            "en": "Taxi to the Prague Castle main gate (Hradčanské náměstí)",
+            "ko": "프라하 성 정문(흐라차니 광장)까지 택시"
+          }
+        },
+        {
+          "time": "09:45",
+          "type": "normal",
+          "place": "prague-castle",
+          "title": {
+            "en": "Main castle circuit",
+            "ko": "프라하 성 주요 관람 코스"
+          },
+          "note": {
+            "en": "St. Vitus Cathedral, Old Royal Palace, St. George's Basilica, Golden Lane. Castle buildings are open 9:00–16:00. Last entry to St. Vitus is 15:40.",
+            "ko": "성 비투스 대성당, 구 왕궁, 성 이르지 성당, 황금소로. 성 건물은 9:00~16:00 개방, 성 비투스 대성당 마지막 입장은 15:40입니다."
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "reserve",
+          "mapQuery": "Malostranské náměstí, Praha",
+          "title": {
+            "en": "Lunch for 8 near the castle or in Lesser Town",
+            "ko": "성 근처 또는 말라스트라나에서 점심 (8명)"
+          }
+        },
+        {
+          "time": "14:30",
+          "type": "reserve",
+          "title": {
+            "en": "Massage, 60–90 minutes",
+            "ko": "마사지 (60~90분)"
+          },
+          "note": {
+            "en": "Thai massage. Candidates: Thai World, Sabai, Zen Asian Wellness.",
+            "ko": "타이 마사지. 후보: Thai World, Sabai, Zen Asian Wellness."
+          }
+        },
+        {
+          "time": "16:15",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi home",
+            "ko": "택시로 귀가"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "mapQuery": "Pho Vietnam Tuan & Lan, Anglická 529/15, Praha",
+          "title": {
+            "en": "Asian cook night at the Airbnb",
+            "ko": "숙소에서 아시안 요리의 밤"
+          },
+          "note": {
+            "en": "Backup: Pho Vietnam Tuan & Lan, Anglická 529/15, Vinohrady.",
+            "ko": "대안: 포 베트남 투언 앤 란(Pho Vietnam Tuan & Lan), Anglická 529/15, 비노흐라디."
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-28",
+      "title": {
+        "en": "Market day and Onegin",
+        "ko": "크리스마스 마켓과 오네긴"
+      },
+      "items": [
+        {
+          "time": "09:00",
+          "type": "normal",
+          "title": {
+            "en": "Slow breakfast",
+            "ko": "느긋한 아침 식사"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "taxi",
+          "place": "christmas-markets",
+          "title": {
+            "en": "Taxi to Old Town Square: Christmas market opening day",
+            "ko": "구시가지 광장까지 택시: 크리스마스 마켓 개장일"
+          },
+          "note": {
+            "en": "The market is open about 10:00–22:00 (approximate).",
+            "ko": "마켓은 대략 10:00~22:00 운영합니다 (대략적인 시간)."
+          }
+        },
+        {
+          "time": "13:00",
+          "type": "reserve",
+          "mapQuery": "Staroměstské náměstí, Praha",
+          "title": {
+            "en": "Lunch for 8 near Old Town Square",
+            "ko": "구시가지 광장 근처 점심 (8명)"
+          }
+        },
+        {
+          "time": "14:30",
+          "type": "normal",
+          "title": {
+            "en": "Split up: older adults rest at the Airbnb, the others stay",
+            "ko": "각자 시간: 어르신들은 숙소에서 휴식, 나머지는 마켓에 남기"
+          }
+        },
+        {
+          "time": "16:30",
+          "type": "optional",
+          "place": "christmas-markets",
+          "title": {
+            "en": "Christmas tree lighting at Old Town Square",
+            "ko": "구시가지 광장 크리스마스 트리 점등식"
+          },
+          "note": {
+            "en": "Time not yet confirmed.",
+            "ko": "시간은 아직 확정되지 않았습니다."
+          }
+        },
+        {
+          "time": "17:45",
+          "type": "taxi",
+          "place": "national-theatre",
+          "title": {
+            "en": "Taxi to the National Theatre",
+            "ko": "국립극장까지 택시"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "place": "national-theatre",
+          "title": {
+            "en": "Meet at the theatre",
+            "ko": "극장 앞에서 모이기"
+          }
+        },
+        {
+          "time": "19:00",
+          "type": "fixed",
+          "place": "national-theatre",
+          "title": {
+            "en": "ONEGIN, Czech National Ballet",
+            "ko": "오네긴, 체코 국립 발레단"
+          },
+          "note": {
+            "en": "National Theatre, Ostrovní 1. About 2 h 10 min with two intermissions. Ends about 21:10.",
+            "ko": "국립극장, Ostrovní 1. 막간 휴식 2회 포함 약 2시간 10분. 21:10경 종료."
+          }
+        },
+        {
+          "time": "21:20",
+          "type": "reserve",
+          "mapQuery": "Národní třída, Praha",
+          "title": {
+            "en": "Pre-booked taxi from Národní třída",
+            "ko": "미리 예약한 택시, 나로드니 거리(Národní třída)에서 탑승"
+          }
+        },
+        {
+          "time": "21:45",
+          "type": "normal",
+          "title": {
+            "en": "Noodle supper at the Airbnb",
+            "ko": "숙소에서 국수 야식"
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-29",
+      "title": {
+        "en": "Jewish Quarter and last evening",
+        "ko": "유대인 지구와 마지막 저녁"
+      },
+      "items": [
+        {
+          "time": "09:00",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast and pack",
+            "ko": "아침 식사 및 짐 싸기"
+          }
+        },
+        {
+          "time": "10:45",
+          "type": "normal",
+          "place": "jewish-quarter",
+          "title": {
+            "en": "Jewish Quarter",
+            "ko": "유대인 지구"
+          },
+          "note": {
+            "en": "Museum sites are open Sunday 9:00–16:30 and closed on Saturdays.",
+            "ko": "박물관 관련 시설은 일요일 9:00~16:30 개방, 토요일은 휴관입니다."
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "reserve",
+          "mapQuery": "Pařížská, Praha",
+          "title": {
+            "en": "Optional lunch near Pařížská",
+            "ko": "파르지시스카 거리 근처 점심 (선택)"
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "normal",
+          "place": "christmas-markets",
+          "title": {
+            "en": "Last look at the market, or rest",
+            "ko": "마지막으로 마켓 구경, 또는 휴식"
+          }
+        },
+        {
+          "time": "17:00",
+          "type": "normal",
+          "title": {
+            "en": "Pack for Regensburg",
+            "ko": "레겐스부르크 이동을 위해 짐 싸기"
+          },
+          "note": {
+            "en": "Everyone leaves Prague on Mon Nov 30, by plane or train. See the Flights tab.",
+            "ko": "모두 11월 30일(월)에 비행기 또는 기차로 프라하를 떠납니다. 항공편 탭을 확인하세요."
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Farewell dinner",
+            "ko": "프라하 마지막 저녁 식사"
+          }
+        },
+        {
+          "when": {
+            "en": "Option",
+            "ko": "선택"
+          },
+          "type": "optional",
+          "mapQuery": "Kutná Hora, Czechia",
+          "title": {
+            "en": "Day trip to Kutná Hora instead of the Jewish Quarter",
+            "ko": "유대인 지구 대신 쿠트나호라 당일치기"
+          }
+        }
+      ],
+      "city": "prague",
+      "stay": [
+        "prague"
+      ]
+    },
+    {
+      "id": "2026-11-30",
+      "city": "regensburg",
+      "stay": [
+        "regensburg"
+      ],
+      "title": {
+        "en": "Prague to Regensburg",
+        "ko": "프라하에서 레겐스부르크로"
+      },
+      "items": [
+        {
+          "time": "06:30",
+          "type": "taxi",
+          "title": {
+            "en": "Jaemin: taxi to Prague airport",
+            "ko": "재민: 프라하 공항까지 택시"
+          }
+        },
+        {
+          "time": "08:45",
+          "type": "taxi",
+          "title": {
+            "en": "Jenny & Peter, Mom & Dad, Aunt & Uncle: taxi to Prague main station (Praha hlavní nádraží)",
+            "ko": "재령 & 피터, 엄마 & 아빠, 이모 & 이모부: 프라하 중앙역(Praha hlavní nádraží)까지 택시"
+          }
+        },
+        {
+          "time": "09:30",
+          "type": "fixed",
+          "title": {
+            "en": "Jaemin flies (TK1768)",
+            "ko": "재민 출발 (TK1768)"
+          }
+        },
+        {
+          "time": "09:35",
+          "type": "fixed",
+          "title": {
+            "en": "Jenny & Peter, Mom & Dad, Aunt & Uncle: train to Regensburg",
+            "ko": "재령 & 피터, 엄마 & 아빠, 이모 & 이모부: 레겐스부르크행 기차"
+          },
+          "note": {
+            "en": "Arrives 13:41. TODO: train number and platform",
+            "ko": "13:41 도착. TODO: 열차 번호와 승강장"
+          }
+        },
+        {
+          "time": "09:45",
+          "type": "taxi",
+          "title": {
+            "en": "Jay: taxi to Prague airport",
+            "ko": "재성: 프라하 공항까지 택시"
+          }
+        },
+        {
+          "time": "11:45",
+          "type": "fixed",
+          "title": {
+            "en": "Jay flies to Frankfurt (DE4483)",
+            "ko": "재성 프랑크푸르트행 출발 (DE4483)"
+          },
+          "note": {
+            "en": "TODO: how Jay gets from Frankfurt to Regensburg",
+            "ko": "TODO: 재성이 프랑크푸르트에서 레겐스부르크로 가는 방법"
+          }
+        },
+        {
+          "time": "13:41",
+          "type": "normal",
+          "title": {
+            "en": "Train arrives in Regensburg",
+            "ko": "레겐스부르크 도착"
+          },
+          "mapQuery": "Regensburg Hauptbahnhof"
+        },
+        {
+          "time": "14:15",
+          "type": "taxi",
+          "title": {
+            "en": "Taxi to Hampton by Hilton, drop bags and check in",
+            "ko": "햄프턴 바이 힐튼까지 택시, 짐 맡기고 체크인"
+          },
+          "mapQuery": "Hampton by Hilton Regensburg, Johanna-Dachs-Straße 10, 93055 Regensburg"
+        },
+        {
+          "time": "15:30",
+          "type": "normal",
+          "place": "regensburg-old-town",
+          "title": {
+            "en": "Half day in Regensburg: Old Town and the Stone Bridge",
+            "ko": "레겐스부르크 반나절: 구시가지와 돌다리"
+          },
+          "note": {
+            "en": "Easy, flat walk with stops for hot drinks. It gets dark by about 16:15.",
+            "ko": "평평해서 걷기 편하며 따뜻한 음료를 마시며 쉽니다. 16:15쯤 어두워집니다."
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "reserve",
+          "title": {
+            "en": "Dinner in the Old Town",
+            "ko": "구시가지에서 저녁 식사"
+          },
+          "mapQuery": "Regensburg Altstadt"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-01",
+      "city": "munich",
+      "stay": [
+        "munich-airbnb",
+        "munich-scandic"
+      ],
+      "title": {
+        "en": "Drive to Munich",
+        "ko": "뮌헨으로 이동"
+      },
+      "items": [
+        {
+          "time": "07:45",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast at the Hampton by Hilton",
+            "ko": "햄프턴 바이 힐튼에서 조식"
+          },
+          "mapQuery": "Hampton by Hilton Regensburg, Johanna-Dachs-Straße 10, 93055 Regensburg"
+        },
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Pack and check out",
+            "ko": "짐 싸고 체크아웃"
+          }
+        },
+        {
+          "time": "09:00",
+          "type": "reserve",
+          "title": {
+            "en": "Pick up the rental car",
+            "ko": "렌터카 픽업"
+          },
+          "note": {
+            "en": "TODO: rental office address and booking number",
+            "ko": "TODO: 렌터카 영업소 주소와 예약 번호"
+          }
+        },
+        {
+          "time": "09:45",
+          "type": "drive",
+          "title": {
+            "en": "Drive to Munich (about 1 h 20 min)",
+            "ko": "뮌헨으로 운전 (약 1시간 20분)"
+          }
+        },
+        {
+          "time": "11:30",
+          "type": "normal",
+          "title": {
+            "en": "Check in or drop bags",
+            "ko": "체크인 또는 짐 맡기기"
+          },
+          "note": {
+            "en": "Airbnb for 4 and Scandic hotel for 2. TODO: who stays where, and check-in times",
+            "ko": "4명은 에어비앤비, 2명은 스칸딕 호텔. TODO: 숙소 배정과 체크인 시간"
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "normal",
+          "title": {
+            "en": "Lunch",
+            "ko": "점심 식사"
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "normal",
+          "place": "munich-christmas",
+          "title": {
+            "en": "Half day in Munich and the Christmas market",
+            "ko": "뮌헨 반나절과 크리스마스 마켓"
+          },
+          "note": {
+            "en": "Hours and market locations not verified.",
+            "ko": "운영 시간과 마켓 위치는 확인되지 않았습니다."
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Dinner",
+            "ko": "저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-02",
+      "city": "munich",
+      "stay": [
+        "munich-airbnb",
+        "munich-scandic"
+      ],
+      "title": {
+        "en": "Neuschwanstein Castle",
+        "ko": "노이슈반슈타인 성"
+      },
+      "items": [
+        {
+          "time": "08:00",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "09:00",
+          "type": "drive",
+          "title": {
+            "en": "Drive to Hohenschwangau (about 2 hours)",
+            "ko": "호엔슈방가우로 운전 (약 2시간)"
+          },
+          "note": {
+            "en": "Parking is at the village car park.",
+            "ko": "마을 주차장에 주차합니다."
+          }
+        },
+        {
+          "time": "11:15",
+          "type": "normal",
+          "place": "neuschwanstein",
+          "title": {
+            "en": "Arrive, tickets, early lunch",
+            "ko": "도착, 입장권 수령, 이른 점심"
+          },
+          "note": {
+            "en": "Tickets are collected at the ticket centre well before the tour.",
+            "ko": "투어 전에 티켓 센터에서 입장권을 수령합니다."
+          }
+        },
+        {
+          "time": "12:00",
+          "type": "normal",
+          "place": "neuschwanstein",
+          "title": {
+            "en": "Go up to the castle",
+            "ko": "성으로 올라가기"
+          },
+          "note": {
+            "en": "Steep. The climb can be done by shuttle bus or horse carriage. Allow 30–40 minutes.",
+            "ko": "경사가 급합니다. 셔틀버스나 마차로 올라갈 수 있습니다. 30~40분을 잡습니다."
+          }
+        },
+        {
+          "time": "12:55",
+          "type": "fixed",
+          "place": "neuschwanstein",
+          "title": {
+            "en": "NEUSCHWANSTEIN CASTLE TOUR",
+            "ko": "노이슈반슈타인 성 투어"
+          },
+          "note": {
+            "en": "Guided tour with many stairs. About 30 minutes inside.",
+            "ko": "계단이 많은 가이드 투어. 내부 관람 약 30분."
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "normal",
+          "title": {
+            "en": "Coffee and cake, views from the bridge or the village",
+            "ko": "커피와 케이크, 다리 또는 마을 풍경"
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "drive",
+          "title": {
+            "en": "Drive back to Munich (about 2 hours)",
+            "ko": "뮌헨으로 운전 (약 2시간)"
+          }
+        },
+        {
+          "time": "19:00",
+          "type": "normal",
+          "title": {
+            "en": "Dinner in Munich",
+            "ko": "뮌헨에서 저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-03",
+      "city": "munich",
+      "stay": [
+        "munich-airbnb",
+        "munich-scandic"
+      ],
+      "title": {
+        "en": "Peter's birthday in Munich",
+        "ko": "뮌헨에서 피터의 생일"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast and birthday greetings",
+            "ko": "아침 식사와 생일 축하"
+          }
+        },
+        {
+          "time": "10:45",
+          "type": "normal",
+          "place": "marienplatz",
+          "title": {
+            "en": "Marienplatz",
+            "ko": "마리엔플라츠"
+          },
+          "note": {
+            "en": "Glockenspiel at 11:00 and 12:00.",
+            "ko": "글로켄슈필 시계 공연은 11:00와 12:00입니다."
+          }
+        },
+        {
+          "time": "12:15",
+          "type": "normal",
+          "title": {
+            "en": "Lunch near Marienplatz",
+            "ko": "마리엔플라츠 근처 점심"
+          }
+        },
+        {
+          "time": "13:30",
+          "type": "normal",
+          "place": "residenz",
+          "title": {
+            "en": "Munich Residence",
+            "ko": "뮌헨 레지덴츠"
+          }
+        },
+        {
+          "time": "15:30",
+          "type": "optional",
+          "place": "alter-peter",
+          "title": {
+            "en": "Alter Peter (St. Peter's Church)",
+            "ko": "알터 페터 (성 베드로 성당)"
+          },
+          "note": {
+            "en": "The tower has many steps. The church itself is easy.",
+            "ko": "탑은 계단이 많습니다. 성당 내부는 편합니다."
+          }
+        },
+        {
+          "time": "16:30",
+          "type": "normal",
+          "title": {
+            "en": "Hot drinks and the Christmas market",
+            "ko": "따뜻한 음료와 크리스마스 마켓"
+          }
+        },
+        {
+          "time": "18:00",
+          "type": "reserve",
+          "title": {
+            "en": "BIRTHDAY DINNER (surprise location)",
+            "ko": "생일 축하 저녁 식사 (장소는 비밀)"
+          },
+          "note": {
+            "en": "The location will be shared later.",
+            "ko": "장소는 나중에 알려 드립니다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-04",
+      "city": "nuremberg",
+      "stay": [
+        "nuremberg"
+      ],
+      "title": {
+        "en": "Drive to Nuremberg",
+        "ko": "뉘른베르크로 이동"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast, pack and check out",
+            "ko": "아침 식사, 짐 싸기, 체크아웃"
+          }
+        },
+        {
+          "time": "09:15",
+          "type": "drive",
+          "title": {
+            "en": "Drive towards Ingolstadt (about 50 min)",
+            "ko": "잉골슈타트 방면으로 운전 (약 50분)"
+          }
+        },
+        {
+          "time": "10:15",
+          "type": "optional",
+          "place": "ingolstadt-village",
+          "title": {
+            "en": "Ingolstadt Village (optional)",
+            "ko": "잉골슈타트 빌리지 (선택)"
+          },
+          "note": {
+            "en": "Outlet shopping. Skipping it means reaching Nuremberg earlier.",
+            "ko": "아울렛 쇼핑. 건너뛰면 뉘른베르크에 더 일찍 도착합니다."
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "normal",
+          "title": {
+            "en": "Lunch",
+            "ko": "점심 식사"
+          }
+        },
+        {
+          "time": "13:30",
+          "type": "drive",
+          "title": {
+            "en": "Drive to Nuremberg (about 1 hour)",
+            "ko": "뉘른베르크로 운전 (약 1시간)"
+          }
+        },
+        {
+          "time": "14:45",
+          "type": "normal",
+          "title": {
+            "en": "Check in at the Holiday Inn, the niu Leo",
+            "ko": "홀리데이 인, 니우 레오 체크인"
+          },
+          "mapQuery": "Am Leonhardspark 6, Nürnberg"
+        },
+        {
+          "time": "15:30",
+          "type": "normal",
+          "place": "memorium",
+          "title": {
+            "en": "Memorium Nuremberg Trials",
+            "ko": "뉘른베르크 재판 기념관"
+          },
+          "note": {
+            "en": "Opening hours and last entry not verified.",
+            "ko": "운영 시간과 마지막 입장 시간은 확인되지 않았습니다."
+          }
+        },
+        {
+          "time": "17:00",
+          "type": "normal",
+          "place": "weissgerbergasse",
+          "title": {
+            "en": "Weißgerbergasse, old timber-framed street",
+            "ko": "바이스게르버가세, 옛 목조 건물 골목"
+          }
+        },
+        {
+          "time": "17:45",
+          "type": "normal",
+          "place": "nuremberg-market",
+          "title": {
+            "en": "Christmas market and dinner",
+            "ko": "크리스마스 마켓과 저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-05",
+      "city": "mainz",
+      "stay": [
+        "mainz"
+      ],
+      "title": {
+        "en": "Drive to Mainz",
+        "ko": "마인츠로 이동"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast, pack and check out",
+            "ko": "아침 식사, 짐 싸기, 체크아웃"
+          }
+        },
+        {
+          "time": "09:15",
+          "type": "drive",
+          "title": {
+            "en": "Drive towards Wertheim (about 1 h 30 min)",
+            "ko": "베르트하임 방면으로 운전 (약 1시간 30분)"
+          }
+        },
+        {
+          "time": "10:45",
+          "type": "optional",
+          "place": "wertheim-village",
+          "title": {
+            "en": "Wertheim Village (optional)",
+            "ko": "베르트하임 빌리지 (선택)"
+          },
+          "note": {
+            "en": "Outlet shopping. Skipping it means an earlier lunch.",
+            "ko": "아울렛 쇼핑. 건너뛰면 점심을 더 일찍 먹습니다."
+          }
+        },
+        {
+          "time": "12:15",
+          "type": "drive",
+          "title": {
+            "en": "Drive to Frankfurt (about 1 hour)",
+            "ko": "프랑크푸르트로 운전 (약 1시간)"
+          }
+        },
+        {
+          "time": "13:30",
+          "type": "reserve",
+          "title": {
+            "en": "Korean lunch in Frankfurt",
+            "ko": "프랑크푸르트에서 한식 점심"
+          },
+          "note": {
+            "en": "TODO: restaurant name and address",
+            "ko": "TODO: 식당 이름과 주소"
+          }
+        },
+        {
+          "time": "15:15",
+          "type": "drive",
+          "title": {
+            "en": "Drive to Mainz (about 40 min)",
+            "ko": "마인츠로 운전 (약 40분)"
+          }
+        },
+        {
+          "time": "16:00",
+          "type": "normal",
+          "title": {
+            "en": "Check in at the hotel",
+            "ko": "호텔 체크인"
+          },
+          "note": {
+            "en": "TODO: hotel name and address (Mainz or Wiesbaden)",
+            "ko": "TODO: 호텔 이름과 주소 (마인츠 또는 비스바덴)"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Dinner",
+            "ko": "저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-06",
+      "city": "mainz",
+      "stay": [
+        "mainz"
+      ],
+      "title": {
+        "en": "Sunday in Mainz",
+        "ko": "마인츠의 일요일"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "fixed",
+          "title": {
+            "en": "Korean church",
+            "ko": "한인 교회"
+          },
+          "note": {
+            "en": "TODO: church name, address and service time",
+            "ko": "TODO: 교회 이름, 주소, 예배 시간"
+          }
+        },
+        {
+          "time": "13:00",
+          "type": "normal",
+          "title": {
+            "en": "Lunch",
+            "ko": "점심 식사"
+          }
+        },
+        {
+          "time": "15:00",
+          "type": "optional",
+          "title": {
+            "en": "Rußler with the Gräfs (to be confirmed)",
+            "ko": "뤼슬러 가족, 그레프 가족과 만남 (확정 전)"
+          },
+          "note": {
+            "en": "TODO: time and place",
+            "ko": "TODO: 시간과 장소"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Dinner",
+            "ko": "저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-07",
+      "city": "mainz",
+      "stay": [
+        "mainz"
+      ],
+      "title": {
+        "en": "Mainz tour",
+        "ko": "마인츠 투어"
+      },
+      "items": [
+        {
+          "time": "09:00",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "normal",
+          "title": {
+            "en": "Mainz tour, part 1",
+            "ko": "마인츠 투어 1부"
+          },
+          "note": {
+            "en": "TODO: tour stops. Ideas: St. Martin's Cathedral and the Old Town.",
+            "ko": "TODO: 투어 코스. 예: 성 마틴 대성당과 구시가지."
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "normal",
+          "title": {
+            "en": "Lunch",
+            "ko": "점심 식사"
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "normal",
+          "title": {
+            "en": "Rest at the hotel",
+            "ko": "호텔에서 휴식"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Dinner",
+            "ko": "저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-08",
+      "city": "mainz",
+      "stay": [
+        "mainz"
+      ],
+      "title": {
+        "en": "Mainz tour",
+        "ko": "마인츠 투어"
+      },
+      "items": [
+        {
+          "time": "09:00",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast",
+            "ko": "아침 식사"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "normal",
+          "title": {
+            "en": "Mainz tour, part 2",
+            "ko": "마인츠 투어 2부"
+          },
+          "note": {
+            "en": "TODO: tour stops. Ideas: the Christmas market and the Rhine promenade.",
+            "ko": "TODO: 투어 코스. 예: 크리스마스 마켓과 라인강변 산책."
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "normal",
+          "title": {
+            "en": "Lunch",
+            "ko": "점심 식사"
+          }
+        },
+        {
+          "time": "14:00",
+          "type": "normal",
+          "title": {
+            "en": "Rest, pack",
+            "ko": "휴식, 짐 싸기"
+          }
+        },
+        {
+          "time": "18:30",
+          "type": "normal",
+          "title": {
+            "en": "Last dinner in Germany",
+            "ko": "독일에서의 마지막 저녁 식사"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-12-09",
+      "city": "mainz",
+      "stay": [
+        "mainz"
+      ],
+      "title": {
+        "en": "Departure day",
+        "ko": "출발하는 날"
+      },
+      "items": [
+        {
+          "time": "08:30",
+          "type": "normal",
+          "title": {
+            "en": "Breakfast and check out",
+            "ko": "아침 식사와 체크아웃"
+          }
+        },
+        {
+          "time": "10:30",
+          "type": "reserve",
+          "title": {
+            "en": "Return the rental car",
+            "ko": "렌터카 반납"
+          },
+          "note": {
+            "en": "TODO: drop-off address and time",
+            "ko": "TODO: 반납 주소와 시간"
+          }
+        },
+        {
+          "time": "12:30",
+          "type": "normal",
+          "title": {
+            "en": "Mom & Dad: arrive at Frankfurt Airport",
+            "ko": "엄마 & 아빠: 프랑크푸르트 공항 도착"
+          },
+          "mapQuery": "Frankfurt Airport Terminal 1"
+        },
+        {
+          "time": "15:30",
+          "type": "fixed",
+          "title": {
+            "en": "Mom & Dad fly to Seoul (LH712)",
+            "ko": "엄마 & 아빠 서울행 출발 (LH712)"
+          },
+          "note": {
+            "en": "TODO: how everyone else travels home",
+            "ko": "TODO: 다른 분들의 귀국 방법"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": {
+    "en": "Czechia and Germany Family Trip",
+    "ko": "체코·독일 가족 여행"
+  },
+  "tagline": {
+    "en": "November 24 – December 9, 2026",
+    "ko": "2026년 11월 24일 – 12월 9일"
+  },
+  "start": "2026-11-24",
+  "end": "2026-12-09",
+  "timezone": "Europe/Prague",
+  "cities": [
+    {
+      "id": "prague",
+      "name": {
+        "en": "Prague",
+        "ko": "프라하"
+      },
+      "lat": 50.08,
+      "lon": 14.42
+    },
+    {
+      "id": "regensburg",
+      "name": {
+        "en": "Regensburg",
+        "ko": "레겐스부르크"
+      },
+      "lat": 49.02,
+      "lon": 12.1
+    },
+    {
+      "id": "munich",
+      "name": {
+        "en": "Munich",
+        "ko": "뮌헨"
+      },
+      "lat": 48.14,
+      "lon": 11.58
+    },
+    {
+      "id": "nuremberg",
+      "name": {
+        "en": "Nuremberg",
+        "ko": "뉘른베르크"
+      },
+      "lat": 49.45,
+      "lon": 11.08
+    },
+    {
+      "id": "mainz",
+      "name": {
+        "en": "Mainz",
+        "ko": "마인츠"
+      },
+      "lat": 50,
+      "lon": 8.27
+    }
+  ]
+}

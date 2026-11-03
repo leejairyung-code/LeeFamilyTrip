@@ -1,0 +1,88 @@
+{
+  "emergency": [
+    {
+      "label": {
+        "en": "Emergency (EU, all services)",
+        "ko": "긴급 신고 (EU 공통, 모든 서비스)"
+      },
+      "phone": "112"
+    },
+    {
+      "label": {
+        "en": "Ambulance",
+        "ko": "구급차"
+      },
+      "phone": "155"
+    },
+    {
+      "label": {
+        "en": "Police",
+        "ko": "경찰"
+      },
+      "phone": "158"
+    },
+    {
+      "label": {
+        "en": "Germany: police",
+        "ko": "독일: 경찰"
+      },
+      "phone": "110"
+    }
+  ],
+  "taxi": {
+    "cs": {
+      "intro": "Dobrý den, prosím, odvezte nás na tuto adresu:",
+      "outro": "Děkujeme!",
+      "phone": "Telefon:"
+    },
+    "de": {
+      "intro": "Guten Tag, bitte bringen Sie uns zu dieser Adresse:",
+      "outro": "Vielen Dank!",
+      "phone": "Telefon:"
+    }
+  },
+  "embassy": {
+    "name": {
+      "en": "TODO: embassy name",
+      "ko": "TODO: 대사관 이름"
+    },
+    "address": "TODO: embassy address",
+    "phone": "TODO: embassy phone"
+  },
+  "family": {
+    "groupChat": {
+      "name": {
+        "en": "Family group chat",
+        "ko": "가족 단체 채팅방"
+      },
+      "kakao": "TODO: KakaoTalk group chat link (https://open.kakao.com/o/...)"
+    },
+    "people": [
+      {
+        "id": "JS",
+        "phone": "TODO: phone number",
+        "kakao": "TODO: KakaoTalk link"
+      },
+      {
+        "id": "JM",
+        "phone": "TODO: phone number",
+        "kakao": "TODO: KakaoTalk link"
+      },
+      {
+        "id": "JP",
+        "phone": "TODO: phone number",
+        "kakao": "TODO: KakaoTalk link"
+      },
+      {
+        "id": "MD",
+        "phone": "TODO: phone number",
+        "kakao": "TODO: KakaoTalk link"
+      },
+      {
+        "id": "AU",
+        "phone": "TODO: phone number",
+        "kakao": "TODO: KakaoTalk link"
+      }
+    ]
+  }
+}

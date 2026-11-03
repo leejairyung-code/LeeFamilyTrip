@@ -1,0 +1,692 @@
+{
+  "places": [
+    {
+      "id": "klementinum",
+      "name": {
+        "en": "Klementinum",
+        "ko": "클레멘티눔"
+      },
+      "desc": {
+        "en": "A huge Baroque college complex. The guided tour shows the gilded Baroque Library and climbs the Astronomical Tower for a view over Old Town roofs.",
+        "ko": "거대한 바로크 양식의 옛 대학 건물입니다. 가이드 투어로 금빛 바로크 도서관을 보고, 천문탑에 올라 구시가지 지붕을 내려다볼 수 있습니다."
+      },
+      "hours": {
+        "en": "Guided tours only, at set times. November times not verified.",
+        "ko": "정해진 시간의 가이드 투어로만 입장합니다. 11월 운영 시간은 확인되지 않았습니다."
+      },
+      "access": "hard",
+      "accessNote": {
+        "en": "The tower has many steps and no seating.",
+        "ko": "탑에는 계단이 많고 앉을 곳이 없습니다."
+      },
+      "tickets": {
+        "en": "Timed tour slots. Price: not verified.",
+        "ko": "시간이 정해진 투어입니다. 요금: 확인되지 않음."
+      },
+      "address": "Mariánské náměstí 5, 110 00 Praha 1",
+      "mapQuery": "Klementinum, Praha",
+      "link": "https://www.klementinum.com",
+      "verified": false,
+      "image": {
+        "file": "images/places/klementinum.jpg",
+        "credit": "Skot, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Clementinum_baroque_library_7.jpg",
+        "w": 800,
+        "h": 533
+      }
+    },
+    {
+      "id": "old-town-square",
+      "name": {
+        "en": "Old Town Square and Astronomical Clock",
+        "ko": "구시가지 광장과 천문시계"
+      },
+      "desc": {
+        "en": "Prague's main square, with the Týn Church, the Old Town Hall and the medieval Astronomical Clock. A short procession of the Twelve Apostles appears at the top of each hour.",
+        "ko": "프라하의 중심 광장으로 틴 성당, 구시청사, 중세 천문시계가 있습니다. 정각마다 12사도 인형이 짧게 행진합니다."
+      },
+      "hours": {
+        "en": "Square: always open. Clock show: on the hour, roughly 9:00–21:00.",
+        "ko": "광장: 상시 개방. 시계 쇼: 정각마다, 대략 9:00~21:00."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Flat but cobbled and often crowded. Few benches. Cafés around the square are good warm-up stops.",
+        "ko": "평평하지만 돌바닥이고 붐비는 편입니다. 벤치가 적습니다. 광장 주변 카페에서 몸을 녹일 수 있습니다."
+      },
+      "tickets": {
+        "en": "Free to watch. The Town Hall tower is ticketed (price not verified).",
+        "ko": "구경은 무료입니다. 시청사 탑은 유료입니다 (요금 확인되지 않음)."
+      },
+      "address": "Staroměstské náměstí, 110 00 Praha 1",
+      "mapQuery": "Staroměstské náměstí, Praha",
+      "verified": false,
+      "image": {
+        "file": "images/places/old-town-square.jpg",
+        "credit": "Scotch Mist, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prague_Old_Town_2021_13.jpg",
+        "w": 800,
+        "h": 531
+      }
+    },
+    {
+      "id": "charles-bridge",
+      "name": {
+        "en": "Charles Bridge",
+        "ko": "카를교"
+      },
+      "desc": {
+        "en": "The 14th-century stone bridge lined with 30 statues. Beautiful at dusk with the castle lit up in the distance.",
+        "ko": "14세기에 지어진 돌다리로, 양옆에 30개의 조각상이 서 있습니다. 해 질 무렵 멀리 조명이 켜진 프라하 성과 함께 보면 특히 아름답습니다."
+      },
+      "hours": {
+        "en": "Always open, free.",
+        "ko": "상시 개방, 무료."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Uneven stones, can be icy in cold weather, and no seating on the bridge. Start from the Old Town end (Křižovnické náměstí) and walk as far as is comfortable.",
+        "ko": "바닥이 울퉁불퉁하고 추우면 얼 수 있으며 다리 위에는 앉을 곳이 없습니다. 구시가 쪽 입구(크르지조브니츠케 광장)에서 시작해 편한 만큼만 걸으세요."
+      },
+      "tickets": {
+        "en": "No ticket needed.",
+        "ko": "입장권이 필요 없습니다."
+      },
+      "address": "Karlův most, 110 00 Praha 1",
+      "mapQuery": "Křižovnické náměstí, Praha",
+      "verified": false,
+      "image": {
+        "file": "images/places/charles-bridge.jpg",
+        "credit": "Scotch Mist, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prague_Charles_Bridge_2021_12.jpg",
+        "w": 800,
+        "h": 532
+      }
+    },
+    {
+      "id": "st-nicholas",
+      "name": {
+        "en": "St. Nicholas Church (Lesser Town)",
+        "ko": "성 니콜라스 성당 (말라스트라나)"
+      },
+      "desc": {
+        "en": "A grand Baroque church with a huge painted ceiling and gilded statues. Its green dome is a landmark of Lesser Town.",
+        "ko": "천장화와 금빛 조각상이 화려한 바로크 양식 성당입니다. 초록색 돔은 말라스트라나의 상징입니다."
+      },
+      "hours": {
+        "en": "Open daily, shorter hours in winter. Exact hours not verified.",
+        "ko": "매일 개방하며 겨울에는 운영 시간이 짧습니다. 정확한 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "A few steps at the entrance, then pews to sit on inside. The bell tower is a separate climb.",
+        "ko": "입구에 계단이 조금 있고, 안에는 앉을 수 있는 의자가 있습니다. 종탑은 별도로 올라가야 합니다."
+      },
+      "tickets": {
+        "en": "Entry fee. Price: not verified.",
+        "ko": "입장료가 있습니다. 요금: 확인되지 않음."
+      },
+      "address": "Malostranské náměstí 38/1, 118 00 Praha 1",
+      "mapQuery": "Kostel svatého Mikuláše, Malostranské náměstí, Praha",
+      "verified": false,
+      "image": {
+        "file": "images/places/st-nicholas.jpg",
+        "credit": "Jorge Láscar from Australia, CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lascar_St._Nicholas_Cathedral_(4503967655).jpg",
+        "w": 800,
+        "h": 532
+      }
+    },
+    {
+      "id": "lennon-wall",
+      "name": {
+        "en": "John Lennon Wall",
+        "ko": "존 레논 벽"
+      },
+      "desc": {
+        "en": "A wall covered in colorful graffiti, lyrics and messages of peace, started in the 1980s. Quick photo stop in a quiet corner of Lesser Town.",
+        "ko": "1980년대부터 이어진 알록달록한 낙서와 가사, 평화의 메시지로 가득한 벽입니다. 말라스트라나의 조용한 골목에서 사진 찍기 좋습니다."
+      },
+      "hours": {
+        "en": "Always open, free.",
+        "ko": "상시 개방, 무료."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Flat, short walk from where the taxi can stop. Cobbles.",
+        "ko": "택시가 설 수 있는 곳에서 가깝고 평평합니다. 돌바닥입니다."
+      },
+      "tickets": {
+        "en": "Free.",
+        "ko": "무료."
+      },
+      "address": "Velkopřevorské náměstí, 118 00 Praha 1",
+      "mapQuery": "Lennonova zeď, Velkopřevorské náměstí, Praha",
+      "verified": false,
+      "image": {
+        "file": "images/places/lennon-wall.jpg",
+        "credit": "Yamen, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:John_Lennon_Wall_Prague_035.jpg",
+        "w": 800,
+        "h": 600
+      }
+    },
+    {
+      "id": "prague-castle",
+      "name": {
+        "en": "Prague Castle",
+        "ko": "프라하 성"
+      },
+      "desc": {
+        "en": "The largest ancient castle complex in the world. The main circuit covers St. Vitus Cathedral, the Old Royal Palace, St. George's Basilica and Golden Lane, the row of tiny colorful houses.",
+        "ko": "세계 최대 규모의 고성 단지입니다. 주요 코스는 성 비투스 대성당, 구 왕궁, 성 이르지 성당, 그리고 작고 알록달록한 집들이 늘어선 황금소로입니다."
+      },
+      "hours": {
+        "en": "Castle buildings 9:00–16:00 in winter. Last entry to St. Vitus Cathedral 15:40. Not verified.",
+        "ko": "겨울철 성 건물은 9:00~16:00 개방. 성 비투스 대성당 마지막 입장 15:40. 확인되지 않음."
+      },
+      "access": "hard",
+      "accessNote": {
+        "en": "Big hilly site with cobbles, steps and long walks, and little seating. The plan is a taxi to the main gate at Hradčanské náměstí, so there is no hill climb. The cathedral tower is optional.",
+        "ko": "언덕이 많고 돌바닥, 계단, 긴 보행 거리가 있으며 앉을 곳이 적습니다. 언덕을 오르지 않도록 흐라차니 광장의 정문까지 택시로 이동합니다. 대성당 탑은 선택 사항입니다."
+      },
+      "tickets": {
+        "en": "Circuit tickets are sold online and at the information centers. Price and what each circuit includes: not verified.",
+        "ko": "코스별 입장권은 온라인과 안내소에서 판매합니다. 요금과 코스별 포함 내용은 확인되지 않음."
+      },
+      "address": "Hradčany, 119 08 Praha 1",
+      "mapQuery": "Pražský hrad, Praha",
+      "link": "https://www.hrad.cz/en",
+      "verified": false,
+      "image": {
+        "file": "images/places/prague-castle.jpg",
+        "credit": "Diego Delso, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Castillo_de_Praga,_Praga,_Rep%C3%BAblica_Checa,_2022-07-02,_DD_209.jpg",
+        "w": 800,
+        "h": 533
+      }
+    },
+    {
+      "id": "jewish-quarter",
+      "name": {
+        "en": "Jewish Quarter (Josefov)",
+        "ko": "유대인 지구 (요세포프)"
+      },
+      "desc": {
+        "en": "A compact area of historic synagogues and the Old Jewish Cemetery, with tens of thousands of crowded gravestones. Elegant shops line Pařížská street.",
+        "ko": "역사적인 유대교 회당과 구 유대인 묘지가 모여 있는 작은 지구입니다. 묘지에는 수많은 묘비가 빼곡하게 서 있고, 파르지시스카 거리에는 고급 상점들이 늘어서 있습니다."
+      },
+      "hours": {
+        "en": "Museum sites 9:00–16:30 (Nov 2026). Old-New Synagogue 9:00–17:00. Closed Saturdays and Jewish holidays.",
+        "ko": "박물관 관련 시설 9:00~16:30 (2026년 11월). 구신 시나고그 9:00~17:00. 토요일과 유대 명절은 휴관."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Mostly flat, but the cemetery paths are uneven and a few sites have steps. Plan short walks between sites.",
+        "ko": "대부분 평평하지만 묘지 길은 고르지 않고 일부 시설에는 계단이 있습니다. 시설 사이는 짧게 걷도록 계획하세요."
+      },
+      "tickets": {
+        "en": "One combined ticket covers the museum sites. Price: not verified.",
+        "ko": "통합권 하나로 박물관 시설을 볼 수 있습니다. 요금: 확인되지 않음."
+      },
+      "address": "Maiselova 15, 110 00 Praha 1",
+      "mapQuery": "Židovské muzeum v Praze, Maiselova 15, Praha",
+      "link": "https://www.jewishmuseum.cz/en/",
+      "verified": true,
+      "image": {
+        "file": "images/places/jewish-quarter.jpg",
+        "credit": "Øyvind Holmstad, CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prague_Praha_2014_Holmstad_-_den_gammelnye_synagogen_-_old-new_synagogue_-_Josefov_-_banner_with_jewish_hat.JPG",
+        "w": 800,
+        "h": 533
+      }
+    },
+    {
+      "id": "national-theatre",
+      "name": {
+        "en": "National Theatre (Národní divadlo)",
+        "ko": "국립극장 (나로드니 디바들로)"
+      },
+      "desc": {
+        "en": "The golden-roofed opera house on the Vltava embankment. Saturday: Onegin by the Czech National Ballet at 19:00, about 2 h 10 min with two intermissions.",
+        "ko": "블타바강변에 있는 금빛 지붕의 오페라 극장입니다. 토요일 19:00에 체코 국립 발레단의 오네긴이 공연되며, 막간 휴식 2회 포함 약 2시간 10분입니다."
+      },
+      "hours": {
+        "en": "Performance Sat Nov 28 at 19:00. Arrive by 18:30.",
+        "ko": "공연: 11월 28일(토) 19:00. 18:30까지 도착하세요."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Lifts and seating are available, but the building has many stairs between levels.",
+        "ko": "엘리베이터와 좌석이 있지만 층 사이에 계단이 많습니다."
+      },
+      "tickets": {
+        "en": "Tickets from the official site or box office. Status: see the itinerary badge.",
+        "ko": "공식 사이트나 매표소에서 구매합니다. 예약 상태는 일정의 배지를 확인하세요."
+      },
+      "address": "Ostrovní 1, 110 00 Praha 1",
+      "mapQuery": "Národní divadlo, Ostrovní 1, Praha",
+      "link": "https://www.narodni-divadlo.cz/en/",
+      "verified": false,
+      "image": {
+        "file": "images/places/national-theatre.jpg",
+        "credit": "Tadeáš Gregor, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%AD_divadlo_z_Kampy.jpg",
+        "w": 800,
+        "h": 600
+      }
+    },
+    {
+      "id": "christmas-markets",
+      "name": {
+        "en": "Christmas markets",
+        "ko": "크리스마스 마켓"
+      },
+      "desc": {
+        "en": "Wooden stalls with hot wine, trdelník, sausages and ornaments at Old Town Square and Wenceslas Square. Opening day is Saturday, Nov 28.",
+        "ko": "구시가지 광장과 바츨라프 광장에 나무 가판대가 들어서 뱅쇼, 트르델닉, 소시지, 장식품을 팝니다. 개장일은 11월 28일(토)입니다."
+      },
+      "hours": {
+        "en": "About 10:00–22:00 daily from Nov 28. Not verified.",
+        "ko": "11월 28일부터 매일 대략 10:00~22:00. 확인되지 않음."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Very crowded on opening day, cobbled ground, few benches. Cafés nearby for sitting.",
+        "ko": "개장일에는 매우 붐비고 돌바닥이며 벤치가 적습니다. 앉아서 쉴 수 있는 카페가 근처에 있습니다."
+      },
+      "tickets": {
+        "en": "Free to enter. Most stalls take cards; some take only CZK cash.",
+        "ko": "입장 무료. 대부분 카드를 받지만 체코 코루나 현금만 받는 곳도 있습니다."
+      },
+      "address": "Staroměstské náměstí and Václavské náměstí, Praha 1",
+      "mapQuery": "Staroměstské náměstí, Praha",
+      "verified": false,
+      "image": {
+        "file": "images/places/christmas-markets.jpg",
+        "credit": "Helena Melezínková, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Christmas_market_Prague_2021_04.jpg",
+        "w": 800,
+        "h": 600
+      }
+    },
+    {
+      "id": "regensburg-old-town",
+      "name": {
+        "en": "Regensburg Old Town and Stone Bridge",
+        "ko": "레겐스부르크 구시가지와 돌다리"
+      },
+      "desc": {
+        "en": "A well-preserved medieval old town on the Danube, with the 12th-century Stone Bridge and the Gothic cathedral. A UNESCO World Heritage site.",
+        "ko": "다뉴브강변에 중세 모습이 잘 남은 구시가지입니다. 12세기 돌다리와 고딕 대성당이 있으며 유네스코 세계유산입니다."
+      },
+      "hours": {
+        "en": "Open-air, always accessible. Cathedral hours not verified.",
+        "ko": "야외라 언제든 갈 수 있습니다. 대성당 운영 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Mostly flat but cobbled. Cafés along the way for rests.",
+        "ko": "대체로 평평하지만 돌바닥입니다. 길가 카페에서 쉴 수 있습니다."
+      },
+      "tickets": {
+        "en": "Free to enter.",
+        "ko": "입장 무료."
+      },
+      "address": "Steinerne Brücke, 93059 Regensburg",
+      "mapQuery": "Steinerne Brücke, Regensburg",
+      "verified": false,
+      "image": {
+        "file": "images/places/regensburg-old-town.jpg",
+        "credit": "Jakub Hałun, CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Regensburg_Cathedral_and_Stone_Bridge,_Germany,_20250430_1809_8235.jpg",
+        "w": 800,
+        "h": 534
+      }
+    },
+    {
+      "id": "munich-christmas",
+      "name": {
+        "en": "Munich Christmas markets",
+        "ko": "뮌헨 크리스마스 마켓"
+      },
+      "desc": {
+        "en": "Several markets in the center, including the one at Marienplatz, with hot Glühwein, roasted nuts and ornaments.",
+        "ko": "마리엔플라츠를 비롯해 시내 곳곳에 마켓이 열리며 글뤼바인, 구운 견과류, 장식품을 팝니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Crowded in the evening, cobbled ground. Many stalls are cash-only.",
+        "ko": "저녁에는 붐비고 돌바닥입니다. 현금만 받는 가판대가 많습니다."
+      },
+      "tickets": {
+        "en": "Free to enter. Many stalls take only euro cash.",
+        "ko": "입장 무료. 유로 현금만 받는 가판대가 많습니다."
+      },
+      "address": "Marienplatz, 80331 München",
+      "mapQuery": "Marienplatz, München",
+      "verified": false,
+      "image": {
+        "file": "images/places/munich-christmas.jpg",
+        "credit": "Wikimedia Commons, Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchner_Christkindlmarkt_3.JPG",
+        "w": 800,
+        "h": 533
+      }
+    },
+    {
+      "id": "neuschwanstein",
+      "name": {
+        "en": "Neuschwanstein Castle",
+        "ko": "노이슈반슈타인 성"
+      },
+      "desc": {
+        "en": "The fairy-tale castle of King Ludwig II. Entry is by guided tour only, about 30 minutes, with many stairs inside.",
+        "ko": "루트비히 2세의 동화 속 성입니다. 가이드 투어로만 입장하며 약 30분 걸리고 내부에 계단이 많습니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "hard",
+      "accessNote": {
+        "en": "A steep climb from the village; a shuttle bus and horse carriages run up. Many stairs inside.",
+        "ko": "마을에서 가파른 오르막이며 셔틀버스와 마차가 올라갑니다. 내부에 계단이 많습니다."
+      },
+      "tickets": {
+        "en": "Timed tour tickets. Our tour is at 12:55 and is booked.",
+        "ko": "시간이 정해진 투어 입장권. 우리 투어는 12:55이며 예약되어 있습니다."
+      },
+      "address": "Neuschwansteinstraße 20, 87645 Schwangau",
+      "mapQuery": "Neuschwanstein Castle, Schwangau",
+      "link": "https://www.neuschwanstein.de",
+      "verified": false,
+      "image": {
+        "file": "images/places/neuschwanstein.jpg",
+        "credit": "Wilfredor, CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg",
+        "w": 800,
+        "h": 545
+      }
+    },
+    {
+      "id": "marienplatz",
+      "name": {
+        "en": "Marienplatz and the Glockenspiel",
+        "ko": "마리엔플라츠와 글로켄슈필"
+      },
+      "desc": {
+        "en": "Munich's main square. The Glockenspiel in the New Town Hall tower plays at 11:00 and 12:00.",
+        "ko": "뮌헨의 중심 광장입니다. 신시청사 탑의 글로켄슈필이 11:00와 12:00에 공연합니다."
+      },
+      "hours": {
+        "en": "Glockenspiel at 11:00 and 12:00.",
+        "ko": "글로켄슈필 11:00, 12:00."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Flat, open square. Stand near the middle for the show.",
+        "ko": "평평하고 트인 광장입니다. 공연은 광장 중간쯤에서 보세요."
+      },
+      "tickets": {
+        "en": "Free to enter.",
+        "ko": "입장 무료."
+      },
+      "address": "Marienplatz, 80331 München",
+      "mapQuery": "Marienplatz, München",
+      "verified": false,
+      "image": {
+        "file": "images/places/marienplatz.jpg",
+        "credit": "Gary Todd from Xinzheng, China, CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Munich_Marienplatz_with_New_Town_Hall_(9813049186).jpg",
+        "w": 800,
+        "h": 582
+      }
+    },
+    {
+      "id": "residenz",
+      "name": {
+        "en": "Munich Residence",
+        "ko": "뮌헨 레지덴츠"
+      },
+      "desc": {
+        "en": "The former palace of the Bavarian kings, with richly decorated rooms and a treasury.",
+        "ko": "바이에른 왕들의 옛 궁전으로 화려한 방과 보물관이 있습니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Long indoor walk with some stairs. Seats in some rooms.",
+        "ko": "실내에서 많이 걷고 계단이 조금 있습니다. 일부 방에는 의자가 있습니다."
+      },
+      "tickets": {
+        "en": "Price: not verified.",
+        "ko": "요금: 확인되지 않음."
+      },
+      "address": "Residenzstraße 1, 80333 München",
+      "mapQuery": "Residenz München",
+      "link": "https://www.residenz-muenchen.de",
+      "verified": false,
+      "image": {
+        "file": "images/places/residenz.jpg",
+        "credit": "Wilfredor, CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Imperial_Hall,_Residenz_Munich,_Germany.jpg",
+        "w": 800,
+        "h": 615
+      }
+    },
+    {
+      "id": "alter-peter",
+      "name": {
+        "en": "Alter Peter (St. Peter's Church)",
+        "ko": "알터 페터 (성 베드로 성당)"
+      },
+      "desc": {
+        "en": "Munich's oldest parish church, next to Marienplatz. The tower has a viewpoint over the old town.",
+        "ko": "마리엔플라츠 옆의 뮌헨에서 가장 오래된 교구 성당입니다. 탑에서 구시가지를 내려다볼 수 있습니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "hard",
+      "accessNote": {
+        "en": "The church is easy. The tower has about 300 steps and no lift.",
+        "ko": "성당은 편합니다. 탑은 계단이 약 300개이고 엘리베이터가 없습니다."
+      },
+      "tickets": {
+        "en": "Church: free. Tower: small fee (not verified).",
+        "ko": "성당: 무료. 탑: 소액 입장료 (확인되지 않음)."
+      },
+      "address": "Rindermarkt 1, 80331 München",
+      "mapQuery": "Alter Peter, München",
+      "verified": false,
+      "image": {
+        "file": "images/places/alter-peter.jpg",
+        "credit": "Burkhard Mücke, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Alter_Peter_durch_B%C3%A4ume_05.jpg",
+        "w": 800,
+        "h": 449
+      }
+    },
+    {
+      "id": "ingolstadt-village",
+      "name": {
+        "en": "Ingolstadt Village",
+        "ko": "잉골슈타트 빌리지"
+      },
+      "desc": {
+        "en": "A designer outlet village about halfway between Munich and Nuremberg.",
+        "ko": "뮌헨과 뉘른베르크 중간쯤에 있는 디자이너 아울렛 빌리지입니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Flat, outdoor walking with shops to warm up in.",
+        "ko": "평평한 야외 길이며 몸을 녹일 가게가 많습니다."
+      },
+      "tickets": {
+        "en": "Free to enter. Shop prices vary.",
+        "ko": "입장 무료. 가격은 매장마다 다릅니다."
+      },
+      "address": "Otto-Hahn-Straße 1, 85055 Ingolstadt",
+      "mapQuery": "Ingolstadt Village",
+      "verified": false,
+      "image": {
+        "file": "images/places/ingolstadt-village.jpg",
+        "credit": "Henk Bekker, CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FOC_Ingolstadt_Village_Outlet_Stores_2013.jpg",
+        "w": 800,
+        "h": 552
+      }
+    },
+    {
+      "id": "memorium",
+      "name": {
+        "en": "Memorium Nuremberg Trials",
+        "ko": "뉘른베르크 재판 기념관"
+      },
+      "desc": {
+        "en": "The museum in the courthouse where the Nuremberg trials took place after World War II. Audio guide available in several languages.",
+        "ko": "제2차 세계대전 후 뉘른베르크 재판이 열린 법원 건물 안의 박물관입니다. 여러 언어의 오디오 가이드가 있습니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Mostly indoors with lifts. Allow about 1.5 hours. Some standing.",
+        "ko": "대부분 실내이며 엘리베이터가 있습니다. 약 1시간 30분을 잡으세요. 서 있는 시간이 있습니다."
+      },
+      "tickets": {
+        "en": "Price: not verified.",
+        "ko": "요금: 확인되지 않음."
+      },
+      "address": "Bärenschanzstraße 72, 90429 Nürnberg",
+      "mapQuery": "Memorium Nürnberger Prozesse",
+      "link": "https://museums.nuernberg.de/memorium-nuremberg-trials/",
+      "verified": false,
+      "image": {
+        "file": "images/places/memorium.jpg",
+        "credit": "JensKunstfreund, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Memorium_N%C3%BCrnberger_Prozesse_-_Blick_in_den_Saal_600_(4).jpg",
+        "w": 800,
+        "h": 448
+      }
+    },
+    {
+      "id": "weissgerbergasse",
+      "name": {
+        "en": "Weißgerbergasse",
+        "ko": "바이스게르버가세"
+      },
+      "desc": {
+        "en": "A short, picturesque street of colorful timber-framed houses in the old town.",
+        "ko": "구시가지의 알록달록한 목조 가옥이 늘어선 짧고 아름다운 골목입니다."
+      },
+      "hours": {
+        "en": "Open-air, always accessible.",
+        "ko": "야외라 언제든 갈 수 있습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Short walk on cobbles and a slight slope.",
+        "ko": "돌바닥에 약간의 경사가 있는 짧은 길입니다."
+      },
+      "tickets": {
+        "en": "Free to enter.",
+        "ko": "입장 무료."
+      },
+      "address": "Weißgerbergasse, 90403 Nürnberg",
+      "mapQuery": "Weißgerbergasse, Nürnberg",
+      "verified": false,
+      "image": {
+        "file": "images/places/weissgerbergasse.jpg",
+        "credit": "Fred Romero from Paris, France, CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberg_-_Wei%C3%9Fgerbergasse.jpg",
+        "w": 800,
+        "h": 600
+      }
+    },
+    {
+      "id": "nuremberg-market",
+      "name": {
+        "en": "Nuremberg Christkindlesmarkt",
+        "ko": "뉘른베르크 크리스트킨들스마르크트"
+      },
+      "desc": {
+        "en": "One of Germany's best-known Christmas markets, on the Hauptmarkt, with gingerbread and Nuremberg sausages. It usually opens the Friday before the first Advent.",
+        "ko": "독일에서 가장 유명한 크리스마스 마켓 중 하나로 하우프트마르크트 광장에서 열리며 진저브레드와 뉘른베르크 소시지를 팝니다. 보통 첫 번째 대림절 전 금요일에 개장합니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "moderate",
+      "accessNote": {
+        "en": "Very crowded in the evening. Cobbled ground, few seats.",
+        "ko": "저녁에는 매우 붐빕니다. 돌바닥이며 앉을 곳이 적습니다."
+      },
+      "tickets": {
+        "en": "Free to enter. Many stalls take only euro cash.",
+        "ko": "입장 무료. 유로 현금만 받는 가판대가 많습니다."
+      },
+      "address": "Hauptmarkt, 90403 Nürnberg",
+      "mapQuery": "Hauptmarkt, Nürnberg",
+      "link": "https://www.christkindlesmarkt.de",
+      "verified": false,
+      "image": {
+        "file": "images/places/nuremberg-market.jpg",
+        "credit": "DALIBRI, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg",
+        "w": 800,
+        "h": 533
+      }
+    },
+    {
+      "id": "wertheim-village",
+      "name": {
+        "en": "Wertheim Village",
+        "ko": "베르트하임 빌리지"
+      },
+      "desc": {
+        "en": "A designer outlet village between Nuremberg and Frankfurt.",
+        "ko": "뉘른베르크와 프랑크푸르트 사이에 있는 디자이너 아울렛 빌리지입니다."
+      },
+      "hours": {
+        "en": "Opening hours not verified.",
+        "ko": "운영 시간은 확인되지 않았습니다."
+      },
+      "access": "easy",
+      "accessNote": {
+        "en": "Flat, outdoor walking with shops to warm up in.",
+        "ko": "평평한 야외 길이며 몸을 녹일 가게가 많습니다."
+      },
+      "tickets": {
+        "en": "Free to enter. Shop prices vary.",
+        "ko": "입장 무료. 가격은 매장마다 다릅니다."
+      },
+      "address": "Almosenberg, 97877 Wertheim",
+      "mapQuery": "Wertheim Village",
+      "verified": false,
+      "image": {
+        "file": "images/places/wertheim-village.jpg",
+        "credit": "Triplec85, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2022-02-01_Wertheim_Village_Gesch%C3%A4fte_11.jpg",
+        "w": 800,
+        "h": 600
+      }
+    }
+  ]
+}

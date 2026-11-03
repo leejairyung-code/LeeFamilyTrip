@@ -1,0 +1,192 @@
+{
+  "travelers": [
+    {
+      "id": "JS",
+      "name": {
+        "en": "Jay",
+        "ko": "재성"
+      }
+    },
+    {
+      "id": "JM",
+      "name": {
+        "en": "Jaemin",
+        "ko": "재민"
+      }
+    },
+    {
+      "id": "JP",
+      "name": {
+        "en": "Jenny & Peter",
+        "ko": "재령 & 피터"
+      }
+    },
+    {
+      "id": "MD",
+      "name": {
+        "en": "Mom & Dad",
+        "ko": "엄마 & 아빠"
+      }
+    },
+    {
+      "id": "AU",
+      "name": {
+        "en": "Aunt & Uncle",
+        "ko": "이모 & 이모부"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "date": "2026-11-23",
+      "kind": "flight",
+      "number": "DE2033",
+      "from": "SEA",
+      "to": "FRA",
+      "dep": "17:50",
+      "arr": "13:00",
+      "nextDay": true,
+      "who": [
+        "JS"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "kind": "flight",
+      "number": "TK82",
+      "from": "BOS",
+      "to": "IST",
+      "dep": "20:00",
+      "arr": "13:20",
+      "nextDay": true,
+      "who": [
+        "JM"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "flight",
+      "number": "LH713",
+      "from": "ICN",
+      "to": "FRA",
+      "dep": "12:55",
+      "arr": "18:40",
+      "who": [
+        "MD",
+        "AU"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "flight",
+      "number": "LH1400",
+      "from": "FRA",
+      "to": "PRG",
+      "dep": "21:15",
+      "arr": "22:20",
+      "who": [
+        "MD",
+        "AU"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "flight",
+      "number": "DE4484",
+      "from": "FRA",
+      "to": "PRG",
+      "dep": "14:30",
+      "arr": "15:30",
+      "who": [
+        "JS"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "flight",
+      "number": "TK1769",
+      "from": "IST",
+      "to": "PRG",
+      "dep": "17:45",
+      "arr": "18:25",
+      "who": [
+        "JM"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "flight",
+      "number": "DE4480",
+      "from": "FRA",
+      "to": "PRG",
+      "dep": "20:10",
+      "arr": "21:10",
+      "who": [
+        "JP"
+      ],
+      "note": {
+        "en": "TODO: Jenny & Peter's flight into Frankfurt",
+        "ko": "TODO: 재령 & 피터의 프랑크푸르트 도착 항공편"
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "flight",
+      "number": "TK1768",
+      "from": "PRG",
+      "to": "IST",
+      "dep": "09:30",
+      "who": [
+        "JM"
+      ],
+      "note": {
+        "en": "TODO: arrival time and onward plan",
+        "ko": "TODO: 도착 시간과 이후 일정"
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "train",
+      "number": "TODO: train number",
+      "from": "Praha hl.n.",
+      "to": "Regensburg Hbf",
+      "dep": "09:35",
+      "arr": "13:41",
+      "who": [
+        "JP",
+        "MD",
+        "AU"
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "flight",
+      "number": "DE4483",
+      "from": "PRG",
+      "to": "FRA",
+      "dep": "11:45",
+      "who": [
+        "JS"
+      ],
+      "note": {
+        "en": "TODO: arrival time and how to reach Regensburg",
+        "ko": "TODO: 도착 시간과 레겐스부르크 이동 방법"
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "kind": "flight",
+      "number": "LH712",
+      "from": "FRA",
+      "to": "ICN",
+      "dep": "15:30",
+      "who": [
+        "MD"
+      ],
+      "note": {
+        "en": "TODO: how everyone else travels home",
+        "ko": "TODO: 다른 분들의 귀국 방법"
+      }
+    }
+  ]
+}

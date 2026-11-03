@@ -1,0 +1,102 @@
+{
+  "tips": [
+    {
+      "title": {
+        "en": "Offline maps",
+        "ko": "오프라인 지도"
+      },
+      "body": {
+        "en": "The Map buttons in this site open the phone's own map app, so offline maps downloaded in Google Maps or Apple Maps are used when there is no signal.",
+        "ko": "이 사이트의 지도 버튼은 휴대폰의 지도 앱을 열기 때문에 구글 지도나 애플 지도에 내려받은 오프라인 지도를 신호가 없을 때도 사용할 수 있습니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Getting around Prague",
+        "ko": "프라하 시내 이동"
+      },
+      "body": {
+        "en": "Taxis seat 4, so the group of 8 travels in two cars. Rides are by ride-hailing app (Bolt, Uber, Liftago) or phone-booked taxi. The apartment address in Czech is on the Contacts tab.",
+        "ko": "택시는 4명이 탈 수 있어 8명은 두 대로 이동합니다. 호출 앱(Bolt, Uber, Liftago)이나 전화로 예약한 택시를 이용합니다. 체코어로 된 숙소 주소는 연락처 탭에 있습니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Prague airport to the apartment",
+        "ko": "프라하 공항에서 숙소까지"
+      },
+      "body": {
+        "en": "Taxi: order Bolt, Uber or Liftago in the app and meet the car at the pickup point outside arrivals, or use the official taxi rank outside arrivals and agree the price first. The ride is about 30 minutes. Public transport: the Airport Express (AE) bus runs from the airport to Prague main station (Praha hlavní nádraží) in about 35 minutes, then it is a short walk or taxi to Legerova. Bus 119 to the Nádraží Veleslavín metro (line A) is the cheaper option. Tickets can be bought with a contactless bank card at the machines or in the PID Lítačka app. Show the Czech address card on the Stays tab to a taxi driver.",
+        "ko": "택시: Bolt, Uber, Liftago 앱으로 호출해 도착장 밖 승차 지점에서 타거나, 도착장 밖 공식 택시 승강장에서 요금을 먼저 정하고 탑니다. 약 30분 걸립니다. 대중교통: 공항 익스프레스(AE) 버스가 공항에서 프라하 중앙역(Praha hlavní nádraží)까지 약 35분 걸리며, 그다음 레게로바(Legerova)까지 짧게 걷거나 택시를 탑니다. 119번 버스로 나드라지 벨레슬라빈(Nádraží Veleslavín) 지하철(A선)까지 가는 방법이 더 저렴합니다. 표는 기계에서 비접촉 신용·체크카드로 사거나 PID Lítačka 앱으로 살 수 있습니다. 택시 기사님께는 숙소 탭의 체코어 주소 카드를 보여 주세요."
+      }
+    },
+    {
+      "title": {
+        "en": "Cold weather",
+        "ko": "추운 날씨"
+      },
+      "body": {
+        "en": "Late November and December are near freezing, often damp, and sometimes icy. Cobblestones are slippery. Cafés and churches are the warm stops on the way.",
+        "ko": "11월 말과 12월은 영하에 가깝고 습하며 길이 얼기도 합니다. 돌바닥은 미끄럽습니다. 카페와 성당이 중간에 몸을 녹일 수 있는 곳입니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Dark by about 4 pm",
+        "ko": "오후 4시쯤 어두워집니다"
+      },
+      "body": {
+        "en": "Sunset is around 4 pm in Prague and Germany in late November and December. The plan puts outdoor sights in the morning and early afternoon, and evenings are for dinner and the Christmas markets.",
+        "ko": "11월 말과 12월에는 프라하와 독일 모두 오후 4시쯤 해가 집니다. 일정은 야외 관광을 오전과 이른 오후에 두고, 저녁은 식사와 크리스마스 마켓으로 잡았습니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Tipping and paying",
+        "ko": "팁과 결제"
+      },
+      "body": {
+        "en": "In restaurants, rounding up or about 10% is usual if service is not already on the bill. Cards and contactless work almost everywhere, but toilets, markets and small cafés often take only cash (CZK in Czechia, euros in Germany).",
+        "ko": "식당에서는 계산서에 봉사료가 포함되어 있지 않으면 금액을 올려 주거나 10% 정도를 팁으로 주는 것이 일반적입니다. 카드와 비접촉 결제는 거의 어디서나 되지만 화장실, 마켓, 작은 카페는 현금만 받는 경우가 많습니다 (체코는 코루나, 독일은 유로)."
+      }
+    },
+    {
+      "title": {
+        "en": "Germany on Sundays",
+        "ko": "독일의 일요일"
+      },
+      "body": {
+        "en": "Most shops and supermarkets in Germany are closed on Sundays. Dec 6 is a Sunday, in Mainz.",
+        "ko": "독일은 대부분의 상점과 마트가 일요일에 문을 닫습니다. 12월 6일은 일요일이며 마인츠에 있습니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Money exchange",
+        "ko": "환전"
+      },
+      "body": {
+        "en": "Street exchange booths in Prague are known for poor rates, even when they advertise no commission. Bank ATMs and banks give fair rates.",
+        "ko": "프라하의 길거리 환전소는 수수료 없음을 내세워도 환율이 나쁘기로 알려져 있습니다. 은행 ATM과 은행은 정상적인 환율을 적용합니다."
+      }
+    },
+    {
+      "title": {
+        "en": "Power plugs",
+        "ko": "전원 플러그"
+      },
+      "body": {
+        "en": "Czechia and Germany use 230 V with two round pins (type C/F).",
+        "ko": "체코와 독일은 230V에 둥근 핀 2개짜리(C/F 타입)를 씁니다."
+      }
+    }
+  ],
+  "currency": {
+    "updated": "TODO: date of these rates (YYYY-MM-DD)",
+    "rates": {
+      "USD": 21.5,
+      "EUR": 24.5,
+      "KRW": 0.0155
+    }
+  }
+}
